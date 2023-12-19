@@ -1,0 +1,7 @@
+<!--index.wxml-->
+<navigation-bar title="景区票务系统" back="{{false}}" color="black" background="#FFF"></navigation-bar>
+<scroll-view class="scrollarea" scroll-y type="list">
+  <view class="container">
+   
+  </view>
+</scroll-view>
